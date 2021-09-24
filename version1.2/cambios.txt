@@ -1,0 +1,4 @@
+Front end angular consume el webservice springboot y muestra el listado de productos
+
+Falta
+*webservice de facturas CRUD
